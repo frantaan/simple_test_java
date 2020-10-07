@@ -121,4 +121,5 @@ allure serve
 cd Docker
 sh run_test.sh
 ````
+После выполнения теста автоматически будет запущен отчет Allures
 Контролировать выполнение можно с помощью selenoid-ui http://localhost:8080/#/
