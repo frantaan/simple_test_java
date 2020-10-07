@@ -1,0 +1,28 @@
+version: '3.5'
+
+networks:
+  default:
+    driver: bridge
+    name: selenoidnet
+
+services:
+  selenoid:
+    image: "aerokube/selenoid"
+    ports:
+    - "4444:4444"
+    volumes:
+    - "$PWD:/etc/selenoid/" # assumed current dir contains browsers.json
+    - "/var/run/docker.sock:/var/run/docker.sock"
+    command: ["-limit","4",
+              "-timeout", "5m",
+              "-container-network", "selenoidnet",
+              "-video-output-dir", "/opt/selenoid/video/",
+              "-log-output-dir", "/opt/selenoid/video/"]
+
+  selenoid-ui:
+    image: "aerokube/selenoid-ui"
+    links:
+    - selenoid
+    ports:
+    - "8080:8080"
+    command: ["--selenoid-uri", "http://selenoid:4444", ""]

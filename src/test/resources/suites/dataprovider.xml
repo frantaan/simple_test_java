@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Manage" data-provider-thread-count="3" >
+    <test name="Manage data tests">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="test.CatalogTests"/>
+        </classes>
+    </test>
+</suite>

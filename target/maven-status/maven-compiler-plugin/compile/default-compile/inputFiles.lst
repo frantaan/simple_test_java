@@ -1,0 +1,17 @@
+/Users/romanaparin/Desktop/YandexMarketAutotests/src/main/java/driver/RemoteDriverManager.java
+/Users/romanaparin/Desktop/YandexMarketAutotests/src/main/java/page/NavigationPage.java
+/Users/romanaparin/Desktop/YandexMarketAutotests/src/main/java/config/ConfigurationManager.java
+/Users/romanaparin/Desktop/YandexMarketAutotests/src/main/java/page/ProductPage.java
+/Users/romanaparin/Desktop/YandexMarketAutotests/src/main/java/driver/IDriver.java
+/Users/romanaparin/Desktop/YandexMarketAutotests/src/main/java/enums/NavigationPageNames.java
+/Users/romanaparin/Desktop/YandexMarketAutotests/src/main/java/config/Configuration.java
+/Users/romanaparin/Desktop/YandexMarketAutotests/src/main/java/test/BaseWeb.java
+/Users/romanaparin/Desktop/YandexMarketAutotests/src/main/java/page/AbstractPageObject.java
+/Users/romanaparin/Desktop/YandexMarketAutotests/src/main/java/enums/ManufacturerNames.java
+/Users/romanaparin/Desktop/YandexMarketAutotests/src/main/java/page/TvCatalogPage.java
+/Users/romanaparin/Desktop/YandexMarketAutotests/src/main/java/page/ElectronicsPage.java
+/Users/romanaparin/Desktop/YandexMarketAutotests/src/main/java/driver/DriverManager.java
+/Users/romanaparin/Desktop/YandexMarketAutotests/src/main/java/driver/DriverFactory.java
+/Users/romanaparin/Desktop/YandexMarketAutotests/src/main/java/test/TestListener.java
+/Users/romanaparin/Desktop/YandexMarketAutotests/src/main/java/enums/CatalogNames.java
+/Users/romanaparin/Desktop/YandexMarketAutotests/src/main/java/report/AllureManager.java
