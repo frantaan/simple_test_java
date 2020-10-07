@@ -1,0 +1,11 @@
+#surefire_0
+#Wed Oct 07 12:53:23 MSK 2020
+basedir=/Users/romanaparin/Desktop/YandexMarketAutotests
+suite=dataprovider
+com.couchbase.client.core.deps.io.netty.noUnsafe=true
+io.netty.tryReflectionSetAccessible=true
+user.dir=/Users/romanaparin/Desktop/YandexMarketAutotests
+reportDirectory=allure-report
+resultsDirectory=allure-results
+testng.dtd.http=true
+localRepository=/Users/romanaparin/.m2/repository
