@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="346ab9e7-793e-4673-9aea-a400b4b84b83" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Docker/service_start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Docker/run_tests.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,7 +28,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="MD" value="3087" />
+          <entry key="MD" value="3173" />
           <entry key="dummy" value="51" />
           <entry key="java" value="4074" />
           <entry key="json" value="19" />
@@ -45,7 +43,7 @@
           <entry key="Bash" value="62" />
           <entry key="JAVA" value="4074" />
           <entry key="JSON" value="19" />
-          <entry key="Markdown" value="3087" />
+          <entry key="Markdown" value="3173" />
           <entry key="PLAIN_TEXT" value="52" />
           <entry key="Properties" value="145" />
           <entry key="XML" value="182" />
@@ -119,8 +117,8 @@
         <entry file="file://$PROJECT_DIR$/README.MD">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="251">
-                <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+              <first_editor relative-caret-position="195">
+                <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
               </first_editor>
               <second_editor />
             </state>
@@ -417,7 +415,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602064625145" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602064748379" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -593,7 +591,7 @@
       <workItem from="1601879768501" duration="4293000" />
       <workItem from="1601900318207" duration="56000" />
       <workItem from="1602011271116" duration="20838000" />
-      <workItem from="1602062764669" duration="1610000" />
+      <workItem from="1602062764669" duration="1879000" />
     </task>
     <servers />
   </component>
@@ -630,7 +628,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73566000" />
+    <option name="totallyTimeSpent" value="73835000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -645,7 +643,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20678514" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20678514" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -661,7 +659,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
       <window_info anchor="bottom" id="Thumbnails" order="7" sideWeight="0.4983845" weight="0.32876712" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49757674" visible="true" weight="0.5205479" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49757674" visible="true" weight="0.5205479" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5024233" side_tool="true" weight="0.34931508" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32871288" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
@@ -971,8 +969,8 @@
     <entry file="file://$PROJECT_DIR$/README.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="251">
-            <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+          <first_editor relative-caret-position="195">
+            <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
           </first_editor>
           <second_editor />
         </state>
