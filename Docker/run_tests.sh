@@ -5,3 +5,5 @@ docker pull selenoid/vnc:firefox_47.0
 docker pull selenoid/video-recorder:latest-release
 echo " starting Selenoid Service ....... "
 docker-compose up --force-recreate -d
+mvn test -Pweb_execution -Dsuite=dataprovider -Dtestng.dtd.http=true -Dio.netty.tryReflectionSetAccessible=true -Dcom.couchbase.client.core.deps.io.netty.noUnsafe=true
+al
